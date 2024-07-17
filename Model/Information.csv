@@ -1,0 +1,5 @@
+name,pop_density,poi_num,road_situation,accessibility,importance
+Jianghan,1.6,900,0.7,1,10
+Jiangan,1.4,876,0.7,0.9,9
+Qiaokou,0.9,433,0.5,0.6,5
+Wuchang,1.5,891,0.7,1,10
